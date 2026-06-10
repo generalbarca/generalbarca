@@ -50,21 +50,21 @@ An object-oriented desktop application built using **Java** as part of the UBC S
 
 ---
 
-### 🚴 About Me & Interests
+### About Me & Interests 🚴🏎️♟️💻
 
 - 💻 Passionate about computer science.
 - 🚴 Avid cyclist interested in urban commuting and e-bike technology.
-- ♟️ player.
-- ⚡ Fun fact: I like to mod cars 🚘.
-- 📈 Dedicated fundamental analyst keeping a sharp eye on tech, telecom, and financial markets.
+- ♟️ chess player.
+- 🏎️ I like to mod cars.
+- 📈 Dedicated fundamental analyst keeping a sharp eye on tech, 📱telecom, and financial markets.
 - 🤔 I’m looking for inspirations how to improve our society.
-- 💬 Ask me about life and healthcare, I am a subject matter expert.
+- 💬 Ask me about life and 🏥healthcare⚕️, I am a subject💊 matter expert.
 
 ---
 
 ### 📬 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:mlin40@student.ubc.ca)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:mlin40@student.o.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/john-lin-297b7b130)
 
 
