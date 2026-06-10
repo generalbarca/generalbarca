@@ -2,7 +2,7 @@
 
 # Hi there, I'm John 👋
 
-I am a Computer Science student at the University of British Columbia focusing on low-level software engineering, efficient data structures, and algorithmic optimization. 
+I am a Computer Science student at the University of British Columbia currently leanring low-level software engineering, efficient data structures, and algorithmic optimization. 
 
 - 🤔 I’m looking for inspirations how to improve our society
 - 💬 Ask me about life and healthcare, I am a subject matter expert
