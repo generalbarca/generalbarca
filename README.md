@@ -64,8 +64,6 @@ An object-oriented desktop application built using **Java** as part of the UBC S
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:mlin40@student.ubc.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/john-lin-297b7b130)
 
-*Note: Replace `your.email@student.ubc.ca` and `your-username` in the links above with your actual details!*
-
 
 <!--
 **generalbarca/generalbarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
