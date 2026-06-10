@@ -11,7 +11,7 @@ I am a Computer Science student at the University of British Columbia currently 
 
 ### 🎓 Education
 
-**University of British Columbia**  
+**University of British Columbia Sept 2025 - Current**  
 *Bachelor of Computer Science* | Cumulative GPA: **93%** 
 
 **University of Toronto 2012 - 2016**  
@@ -22,6 +22,7 @@ I am a Computer Science student at the University of British Columbia currently 
 | Course | Key Concepts Covered | Practical Focus |
 | :--- | :--- | :--- |
 | **CPSC 221:** Data Structures & Algorithms | Asymptotic analysis (Big O), trees, graphs, sorting, and memory allocation. | Clean, optimized implementations of core data structures. |
+| **CPSC 210:** Software Construction | Object-oriented design (OOD), design patterns, test-driven development (TDD), agile testing, and GUI development. | Building robust, maintainable multi-layered applications in Java. |
 | **CPSC 121:** Models of Computation | Digital logic, circuit design, mathematical proofs, and finite state machines. | Analyzing structural logic and building state models. |
 | **CPSC 110:** Computation, Programs & Programming | Systematic program design, recursion, and data abstraction. | Designing functional applications using robust design recipes. |
 | **STAT 203:** Statistical Methods | Data analysis, probability distributions, hypothesis testing, and regression. | Interpreting data trends and applying statistical models to problem-solving. |
