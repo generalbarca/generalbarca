@@ -44,7 +44,7 @@ An object-oriented desktop application built using **Java** as part of the UBC S
 * **Robustness & Testing:** Built a comprehensive suite of unit and integration tests using **JUnit** to achieve extensive code coverage and enforce test-driven principles.
 * **Persistence & UX:** Designed data persistence capabilities via JSON parsing to save and reload user states seamlessly.
 
-#### 📂 AI-Driven Data Pipeline
+#### 📂  [AI-Driven Data Pipeline](https://devpost.com/software/pillender-for-hack-2025)
 * Led a team of four to design and build an intelligent data parsing engine utilizing the Gemini API during our first hackathon.
 
 ---
@@ -53,6 +53,7 @@ An object-oriented desktop application built using **Java** as part of the UBC S
 
 - 💻 Passionate about computer science.
 - 🚴 Avid cyclist interested in urban commuting and e-bike technology.
+- ♟️ player.
 - ⚡ Fun fact: I like to mod cars 🚘.
 - 📈 Dedicated fundamental analyst keeping a sharp eye on tech, telecom, and financial markets.
 
