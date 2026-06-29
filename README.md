@@ -10,7 +10,7 @@ I am a Computer Science student at the University of British Columbia currently 
 ### 🎓 Education
 
 **University of British Columbia: Sept 2025 - Current**  
-*Bachelor of Computer Science* | Cumulative GPA: **93%** 
+*Bachelor of Computer Science* | Cumulative GPA: **90%** 
 
 **University of Toronto: 2012 - 2016**  
 *Doctor of Pharmacy*
