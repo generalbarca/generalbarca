@@ -1,6 +1,8 @@
 # Hi there, I'm John 👋
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:mlin40@student.o.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/john-lin-297b7b130)
 
-I am a Computer Science student at the University of British Columbia, currently learning low-level software engineering, efficient data structures, and algorithmic optimization. Previously, I was a pharmacist for over 10 years. I started using ChatGPT in 2023. I quit my job in 2025 and here I am.
+I am a Computer Science student at the University of British Columbia, currently learning low-level software engineering, efficient data structures, and algorithmic optimization. Previously, I was a pharmacist for over 10 years. I started using ChatGPT in 2023. I quit my job in 2025, and here I am learning how to turn 0 & 1 into those deep, insightful conversations.
 
 
 ---
@@ -16,7 +18,9 @@ I am a Computer Science student at the University of British Columbia, currently
 **University of Toronto: 2006 - 2010**  
 *Honours Bachelor of Science, Neuroscience*
 
-#### ⏳ Courses in Progress (Winter 2026)
+<details>
+<summary><b> Click to expand ⏳ Current Courses in Progress (Winter 2026)</b></summary>
+  
 | Course | Key Concepts Covered | Practical Focus / Applications |
 | :--- | :--- | :--- |
 | **[CPSC 213](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv):** Introduction to Computer Systems | Machine-level execution, C memory management, assembly language, CPU caches, virtual memory, and concurrency. | Writing low-level system code and understanding hardware/software execution boundaries. |
@@ -24,21 +28,28 @@ I am a Computer Science student at the University of British Columbia, currently
 | **[MATH 200](https://vancouver.calendar.ubc.ca/course-descriptions/subject/mathv):** Multivariable Calculus | Vectors, partial derivatives, directional derivatives, multivariable optimization, and multiple integrals. | Applying 3D spatial calculations and multivariable calculus to algorithms and optimization. |
 | **[MATH 111/221](https://vancouver.calendar.ubc.ca/course-descriptions/subject/mathv):** Matrix Algebra | Systems of linear equations, matrices, vector spaces, linear transformations, and determinants. | Constructing linear algebra foundations critical for computational modeling and machine learning. |
 
-#### 🗓️ Future Courses (Spring 2027)
+</details>
+
+<details>
+<summary><b> Click to expand 🗓️ Future Courses (Spring 2027) (Spring 2027)</b></summary>
+
 | Course | Key Concepts Covered | Practical Focus / Applications |
 | :--- | :--- | :--- |
 | **[CPSC 310](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv):** Software Engineering | Software architecture, design patterns, asynchronous TypeScript/JavaScript, REST APIs, software testing, and CI/CD pipelines. | Building and testing large-scale, multi-tier software systems in a collaborative team environment. |
 | **[MATH 302](https://vancouver.calendar.ubc.ca/course-descriptions/subject/mathv):** Introduction to Probability | Sample spaces, random variables, expectation, variance, discrete/continuous distributions, and the Central Limit Theorem. | Establishing rigorous mathematical foundations for statistical modeling, risk analysis, and machine learning algorithms. |
 | **[MATH 307](https://vancouver.calendar.ubc.ca/course-descriptions/subject/mathv):** Applied Linear Algebra | Matrix factorizations (LU, QR, SVD), least squares optimization, Fourier analysis, and numerical linear algebra. | Implementing computational linear algebra techniques for data science, signal processing, and high-dimensional data pipelines. |
 
-#### 📚 Completed Relevant Coursework & Foundations
+</details>
+
+
+#### 📚 Completed Coursework & Foundations
 | Course | Key Concepts Covered | Practical Focus |
 | :--- | :--- | :--- |
 | **[CPSC 221](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv):** Data Structures & Algorithms | Asymptotic analysis (Big O), trees, graphs, sorting, and memory allocation. | Clean, optimized implementations of core data structures in C++. |
 | **[CPSC 210](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv):** Software Construction | Object-oriented design (OOD), design patterns, test-driven development (TDD), agile testing, and GUI development. | Building robust, maintainable multi-layered applications in Java. |
 | **[CPSC 121](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv):** Models of Computation | Digital logic, circuit design, mathematical proofs, and finite state machines. | Analyzing structural logic and building state models. |
 | **[CPSC 110](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv):** Computation, Programs & Programming | Systematic program design, recursion, and data abstraction. | Designing functional applications using robust design recipes. |
-| **STAT 203:** Statistical Methods | Data analysis, probability distributions, hypothesis testing, and regression. | Interpreting data trends and applying statistical models to problem-solving. |
+| **[STAT 203](https://vancouver.calendar.ubc.ca/course-descriptions/subject/statv):** Statistical Methods | Data analysis, probability distributions, hypothesis testing, and regression. | Interpreting data trends and applying statistical models to problem-solving. |
 | **[MATH 180 & 101](https://vancouver.calendar.ubc.ca/course-descriptions/subject/mathv):** Differential & Integral Calculus | Limits, derivatives, optimization, integration techniques, and infinite series. | Applying continuous mathematics to computational modeling and physics. |
 
 ---
@@ -53,7 +64,7 @@ I am a Computer Science student at the University of British Columbia, currently
 
 #### 📂 [CPSC 210 Class Project](https://github.com/generalbarca/Clone-CPSC210-class-project)
 An object-oriented desktop application built using **Java** as part of the UBC Software Construction curriculum to practice enterprise-level software design principles.
-* **Core Architecture:** Implemented strong Object-Oriented Design (OOD) foundations, utilizing separation of concerns between core data models, UI layers, and persistence mechanisms.
+* **Core:** Implemented strong Object-Oriented Design (OOD) foundations, utilizing separation of concerns between core data models, UI layers, and persistence mechanisms.
 * **Robustness & Testing:** Built a comprehensive suite of unit and integration tests using **JUnit** to achieve extensive code coverage and enforce test-driven principles.
 * **Persistence & UX:** Designed data persistence capabilities via JSON parsing to save and reload user states seamlessly.
 
@@ -66,10 +77,10 @@ An object-oriented desktop application built using **Java** as part of the UBC S
 
 - 💻 Passionate about computer science.
 - 🚴 Avid cyclist interested in urban commuting and e-bike technology.
-- ♟️ chess player.
+- ♟️ Chess player.
 - 🏎️ I like to mod cars.
 - 📈 Dedicated fundamental analyst keeping a sharp eye on tech, 📱telecom, and financial markets.
-- 🤔 I’m looking for inspirations how to improve our society.
+- 🤔 I’m looking for inspiration on how to improve our society.
 - 💬 Ask me about life and 🏥healthcare⚕️, I am a subject💊 matter expert.
 
 ---
@@ -79,26 +90,3 @@ An object-oriented desktop application built using **Java** as part of the UBC S
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:mlin40@student.o.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/john-lin-297b7b130)
 
-
-<!--
-**generalbarca/generalbarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on learning the fundamental of computer science
-- 🌱 I am currently enrolled in CPSC 221 (Data Structures and Algorithms) at UBC for the summer term, I really like C++
-- 🤔 I’m looking for inspirations how to improve our society
-- 💬 Ask me about life and healthcare, I am a subject matter expert
-- 📫 How to reach me: email at mlin40@student.ubc.ca
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to mod cars 🚘 and I am a 🚴 enthusiast
-
-- 🔭 I’m currently working on my first hackathon
-- 🌱 I’m currently learning intro to web dev
-- 👯 I’m looking to collaborate on my first hackcamp project
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about life and healthcare
-- 📫 How to reach me: email at menghanlin.pharmacy@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to mod cars
--->
