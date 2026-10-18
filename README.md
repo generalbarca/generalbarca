@@ -56,20 +56,45 @@ I am a Computer Science student at the University of British Columbia, currently
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** C++, Java, C, JavaScript, SQL, DrRacket, AutoHotKey
-- **Developer Tools:** Git, GitHub, VS Code, Linux, Excel
+- **Languages:** Python, C++, Java, C, JavaScript, SQL, DrRacket, AutoHotKey
+- **Developer Tools:** Git, GitHub, VS Code, Linux, Excel, `uv`
 - **Hardware & Performance:** System benchmarking, hardware architecture optimization
 
 ---
 
-#### 📂 [CPSC 210 Class Project](https://github.com/generalbarca/Clone-CPSC210-class-project)
-An object-oriented desktop application built using **Java** as part of the UBC Software Construction curriculum to practice enterprise-level software design principles.
-* **Core:** Implemented strong Object-Oriented Design (OOD) foundations, utilizing separation of concerns between core data models, UI layers, and persistence mechanisms.
-* **Robustness & Testing:** Built a comprehensive suite of unit and integration tests using **JUnit** to achieve extensive code coverage and enforce test-driven principles.
-* **Persistence & UX:** Designed data persistence capabilities via JSON parsing to save and reload user states seamlessly.
+#### 📂 [BCS Hackathon 2026 — Song Availability Checker](https://devpost.com/software/super-song-finder)
+<div align="center">
 
-#### 📂  [HackCamp Hackathon](https://devpost.com/software/pillender-for-hack-2025)
-* Led and worked with a team of four to design and build an intelligent data parsing engine utilizing the Gemini API during our first hackathon.
+  <p>
+    <strong>A unified full-stack web application that queries Spotify, Apple Music, and YouTube simultaneously to compare song details, media previews, and regional availability side-by-side.</strong>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify API" />
+    <img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music" />
+    <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API" />
+    <img src="https://img.shields.io/badge/uv-DE5D43?style=for-the-badge&logo=astral&logoColor=white" alt="uv Package Manager" />
+  </p>
+
+</div>
+
+- **Multi-Platform Architecture:** Built with a Flask backend and a responsive HTML/JS frontend to fetch, normalize, and render live metadata, media cards, and audio previews concurrently across three major platforms.
+- **API Integration & Caching:** Integrates the Spotify Web API (with secure token caching), Apple Music / iTunes Search API, and YouTube Data API v3 to parse region restriction rules and map metadata across services.
+- **Environment Management:** Uses `uv` for ultra-fast dependency resolution and structured environment configuration.
+---
+
+#### 📂 [CPSC 210 Class Project](https://github.com/generalbarca/Clone-CPSC210-class-project)
+An object-oriented desktop application built using **Java** as part of the UBC Software Construction curriculum, focusing on enterprise-level software design principles.
+- **Architecture & Design:** Applied rigorous Object-Oriented Design (OOD) patterns, enforcing strict separation of concerns across data models, UI layers, and persistence boundaries.
+- **Robust Testing:** Authored an extensive test suite using **JUnit** to ensure high code coverage and maintain code reliability.
+- **Data Persistence:** Engineered robust JSON serialization/deserialization capabilities to save and restore complex user states seamlessly.
+
+---
+
+#### 📂 [HackCamp Hackathon — Pillender](https://devpost.com/software/pillender-for-hack-2025)
+- Led a cross-functional team of four to conceptualize and build an AI-driven data pipeline and scheduling application utilizing the **Google Gemini API** for intelligent image parsing and medication tracking.
 
 ---
 
