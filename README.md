@@ -93,7 +93,7 @@ An object-oriented desktop application built using **Java** as part of the UBC S
 
 ---
 
-#### 📂 [HackCamp Hackathon — Pillender](https://devpost.com/software/pillender-for-hack-2025)
+#### 📂 [HackCamp 2025 Hackathon — Pillender](https://devpost.com/software/pillender-for-hack-2025)
 - Led a cross-functional team of four to conceptualize and build an AI-driven data pipeline and scheduling application utilizing the **Google Gemini API** for intelligent image parsing and medication tracking.
 
 ---
